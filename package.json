@@ -1,8 +1,0 @@
-{
-      "name": "SnowBot"
-      "version": "0.0.1"
-      "description": "A bot designed for the Snow Gaming Incorporated community."
-      "main": "bot.js"
-      "author": "Izibella",
-      "dependencies": {}
-}
